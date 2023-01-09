@@ -110,9 +110,9 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
 
         servers.add(new Server("United States",
                 Utils.getImgURL(R.drawable.usa_flag),
-                "us.ovpn",
-                "freeopenvpn",
-                "416248023"
+                "usa.ovpn",
+                "vpn",
+                "vpn"
         ));
         servers.add(new Server("Japan",
                 Utils.getImgURL(R.drawable.japan),
@@ -120,9 +120,9 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
                 "vpn",
                 "vpn"
         ));
-        servers.add(new Server("Sweden",
-                Utils.getImgURL(R.drawable.sweden),
-                "sweden.ovpn",
+        servers.add(new Server("Russian",
+                Utils.getImgURL(R.drawable.russian),
+                "russian.ovpn",
                 "vpn",
                 "vpn"
         ));
