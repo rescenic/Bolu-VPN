@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageButton;
 
-import com.lazycoder.boluvpn.R;
+import xyz.rescenic.boluvpn.R;
 import xyz.rescenic.boluvpn.adapter.ServerListRVAdapter;
 import xyz.rescenic.boluvpn.interfaces.ChangeServer;
 import xyz.rescenic.boluvpn.interfaces.NavItemClickListener;

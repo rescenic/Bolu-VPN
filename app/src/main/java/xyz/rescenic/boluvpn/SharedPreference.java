@@ -3,7 +3,7 @@ package xyz.rescenic.boluvpn;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.lazycoder.boluvpn.R;
+import xyz.rescenic.boluvpn.R;
 
 import xyz.rescenic.boluvpn.model.Server;
 

@@ -1,6 +1,6 @@
 # Bolu VPN
 Android VPN app based on OpenVPN library.</br>
-Install app from : <a href="https://rescenic.xyz./cakevpn"> Bolu VPN</a> </br>
+Install app from : <a href="https://rescenic.xyz./boluvpn"> Bolu VPN</a> </br>
 
 </br>
 <img height='450' width ='250' src="https://i.imgur.com/5GV1Y2L.gif" />

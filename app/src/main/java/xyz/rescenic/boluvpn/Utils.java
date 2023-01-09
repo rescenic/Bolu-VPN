@@ -2,7 +2,7 @@ package xyz.rescenic.boluvpn;
 
 import android.net.Uri;
 
-import com.lazycoder.boluvpn.R;
+import xyz.rescenic.boluvpn.R;
 
 public class Utils {
 

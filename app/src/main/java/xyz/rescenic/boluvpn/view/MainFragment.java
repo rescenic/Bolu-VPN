@@ -22,9 +22,9 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.bumptech.glide.Glide;
 import xyz.rescenic.boluvpn.CheckInternetConnection;
-import com.lazycoder.boluvpn.R;
+import xyz.rescenic.boluvpn.R;
 import xyz.rescenic.boluvpn.SharedPreference;
-import com.lazycoder.boluvpn.databinding.FragmentMainBinding;
+import xyz.rescenic.boluvpn.databinding.FragmentMainBinding;
 import xyz.rescenic.boluvpn.interfaces.ChangeServer;
 import xyz.rescenic.boluvpn.model.Server;
 

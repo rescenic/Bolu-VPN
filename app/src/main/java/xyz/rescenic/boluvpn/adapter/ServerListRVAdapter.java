@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.lazycoder.boluvpn.R;
+import xyz.rescenic.boluvpn.R;
 import xyz.rescenic.boluvpn.interfaces.NavItemClickListener;
 import xyz.rescenic.boluvpn.model.Server;
 
